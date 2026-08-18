@@ -1,0 +1,6 @@
+{
+  "name": "TOOLKIT AI - All Your File Tools in One Place",
+  "description": "The AI-powered toolbox for every file: PDF, Images, Office Docs, Data Visualization, Excel Dashboards, Passport Photo Maker, ATS-Friendly Resume Maker with STAR method, Live Google Search Grounded Deep Research & Citations, and Smart File Workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
